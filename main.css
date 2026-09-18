@@ -1,0 +1,29 @@
+#bandeau{
+    background-color: #ff0000;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contenu{
+    background-color: #ffa600;
+    padding: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Footer{
+    background-color: #00ff00;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Menu{
+    background-color: #f700ff;
+    padding: 100px;
+    position: absolute;
+    top:65px;
+    left:9px;
+}
