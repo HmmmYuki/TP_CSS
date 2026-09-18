@@ -23,9 +23,20 @@
 #Menu{
     background-color: #f700ff;
     padding: 20px;
-    height: 379px;
+    height: 220px;
     position: absolute;
     top:65px;
+    left:8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#MenuB{
+    background-color: #00d9ff;
+    padding:15px;
+    height:130px;
+    position: absolute;
+    top:325px;
     left:8px;
     display: flex;
     justify-content: center;
