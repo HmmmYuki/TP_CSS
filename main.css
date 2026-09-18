@@ -22,8 +22,12 @@
 
 #Menu{
     background-color: #f700ff;
-    padding: 100px;
+    padding: 20px;
+    height: 379px;
     position: absolute;
     top:65px;
-    left:9px;
+    left:8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
