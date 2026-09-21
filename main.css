@@ -33,11 +33,22 @@
 }
 #MenuB{
     background-color: #00d9ff;
-    padding:15px;
-    height:130px;
+    padding:8px;
+    height:143px;
     position: absolute;
     top:325px;
     left:8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#BlocsNews{
+    background-color: #0105ff;
+    padding:40px;
+    height:90px;
+    position: absolute;
+    top:65px;
+    right:8px;
     display: flex;
     justify-content: center;
     align-items: center;
