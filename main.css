@@ -12,6 +12,17 @@
     justify-content: center;
     align-items: center;
 }
+    #Texte{
+    width: 57.25%;
+    padding: 80px;
+    position: absolute;
+    top:-40px;
+    right:165px;
+    display: flex;
+    color: #0516ff;
+    font-size: 20px;
+    text-align: justify;
+}
 #Footer{
     background-color: #00ff00;
     padding: 20px;
@@ -53,3 +64,4 @@
     justify-content: center;
     align-items: center;
 }
+
