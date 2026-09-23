@@ -72,3 +72,61 @@
     color: blue;
     font-size: 20px;
 }
+#Tableau{
+position: absolute;
+transform: translate(7%, -150%);
+width: 25%;
+left: 70px;
+bottom: 105px;
+color: #1aff05;
+font-size: 15px;
+}
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(140 140 140);
+  font-family: sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+}
+#Tableau2{
+position: absolute;
+transform: translate(7%, -150%);
+width: 25%;
+left: 300px;
+bottom: 105px;
+color: #055dff;
+font-size: 15px;
+}
+#Tableau3{
+position: absolute;
+transform: translate(7%, -150%);
+width: 25%;
+left: 530px;
+bottom: 105px;
+color: #1aff05;
+font-size: 15px;
+}
+#Phrase{
+    postion: absolute;
+    transform: translate(37%, -150%);
+    padding:40px;
+    height:90px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 215px;
+    color: #ff0000;
+}
+#Phrase2{
+    postion: absolute;
+    transform: translate(37%, -150%);
+    padding:40px;
+    height:90px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 445px;
+    color: #ff0000;
+}
